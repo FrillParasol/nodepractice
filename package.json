@@ -1,0 +1,11 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/FrillParasol/nodepractice",
+  "author": "rlaejrdud36 <rlaejrdud36@naver.com>",
+  "license": "MIT",
+  "dependencies": {
+    "alert-node": "^2.1.2"
+  }
+}
